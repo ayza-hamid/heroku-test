@@ -1,0 +1,5 @@
+{
+  "name": "heroku-pipeline-test",
+  "private": true,
+  "dependencies": {}
+}
